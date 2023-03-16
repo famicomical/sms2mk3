@@ -16,4 +16,4 @@ Due to the recessed backs of these cartrdiges, case cutting may be necessary to 
 
 ## Future goals
 
-This project would most effectively be used in conjunction with a newly manufactured plastic shell which has had its mounting extrusions correctly aligned with the screw holes on US Master System cartridges. This would allow for a direct fit of the game and converter PCB assembly inside the housing. 3D modeling of the shell remains a further challenge yet to be solved.
+This project would most effectively be used in conjunction with a newly manufactured plastic shell which has had its mounting extrusions correctly aligned with the screw holes on US Master System cartridges. This would allow for a direct fit of the game and converter PCB assembly inside the housing. 3D modeling of the shell remains as a further challenge which has yet to be solved.
