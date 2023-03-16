@@ -1,0 +1,9 @@
+bottom edge of ED to center drill: 14.5mm
+side edge to center drill: 6.5mm
+drill hole diameter: 7mm
+
+dist from bottom edge of everdrive to bottom edge of converter 37.5mm
+dist from bottom edge of ED to top edge of converter: 14.5+.5-8 = 7mm
+->converter is 30.5mm long
+
+use AMP 5530843-5 for connector

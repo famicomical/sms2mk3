@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name sms2mk3)(type KiCad)(uri ${KIPRJMOD}/sms2mk3.pretty)(options "")(descr ""))
+)
